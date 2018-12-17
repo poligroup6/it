@@ -1,0 +1,183 @@
+.radar2{
+	opacity: .2;
+}
+#radars:hover .radar {
+	opacity: .1;
+}
+#radars:hover .radar2 {
+	opacity: .1;
+}
+#radars  .radar:hover {
+	opacity: 1;
+}
+#radars  .radar2:hover {
+	opacity: 1;
+}
+
+#countries:hover .country {
+	opacity: .1;
+}
+
+#countries .country:hover .country {
+	opacity: .4;
+}
+
+#countries  .country:hover {
+	opacity: 1;
+}
+
+
+
+
+#lowcarbon:hover .w-16 {fill:#707070;
+	              stroke:#707070;
+	               opacity: .1;
+}
+#lowcarbon:hover .w-17 {fill:#707070;
+	              stroke:#707070;
+	              opacity: .1;
+}
+#lowcarbon:hover .w-18 {
+	               opacity: .1;
+	
+}
+#lowcarbon:hover .w-14 {
+	               fill:#707070;
+	               opacity: .1;
+	
+}
+#lowcarbon:hover .w-20 {
+	               opacity: .1;
+	
+}
+#lowcarbon:hover .w-19 {
+	               opacity: .1;
+}#lowcarbon:hover .w-22 {
+	               opacity: .1;
+}
+
+#natural_gas:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;
+	             opacity: 1;
+                }
+#natural_gas:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;
+	             opacity: 1;
+                }
+#Oil:hover .w-18 {fill:#71C6AA;
+                stroke:#71C6aa;
+	            opacity: 1;
+                }
+#Oil:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;
+	            opacity: 1;
+                }
+#geo:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#geo:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#hydro:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#Coal:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#hydro:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#Coal:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#nuclear:hover .w-16 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+	
+                }
+#nuclear:hover .w-14 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+	
+                }
+#solar:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#wind:hover .w-22 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }                
+
+#solar:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#wind:hover .w-20 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                } 
+
+
+
+#natural_gas:hover .w-19 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#Oil:hover .w-19 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#geo:hover .w-19 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#hydro:hover .w-19 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#Coal:hover .w-19 {fill:#71C6AA;
+                stroke:#71C6aa;opacity: 1;
+                }
+#nuclear:hover .w-17 {fill:#71C6AA;opacity: 1;
+                stroke:#71C6aa;
+                }
+#solar:hover .w-19 {fill:#71C6AA;opacity: 1;
+                stroke:#71C6aa;
+                }
+#wind:hover .w-19 {fill:#71C6AA;opacity: 1;
+                stroke:#71C6aa;
+                }                                
+
+
+.event1{
+	opacity: 1;
+}
+.event{
+	opacity: 0;
+}
+#events:hover .event {
+	opacity:0;
+}
+#events:hover .event1 {
+	opacity: 0;
+}
+#events  .event:hover {
+	opacity: 1;
+}
+#events  .event1:hover {
+	opacity: 1;
+}
+
+
+
+
+.status1{
+	opacity: 1;
+}
+.status{
+	opacity: 0;
+}
+#statuses:hover .status {
+	opacity:0;
+}
+#statuses:hover .status1 {
+	opacity: 0;
+}
+#statuses  .status:hover {
+	opacity: 1;
+}
+#statuses  .status1:hover {
+	opacity: 1;
+}
+
